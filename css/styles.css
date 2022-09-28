@@ -13,5 +13,8 @@ h1 {
 }
 
 #img-hp {
-    padding: 5% 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
 }
